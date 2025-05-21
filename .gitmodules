@@ -1,0 +1,6 @@
+[submodule "sortify-mobile"]
+	path = sortify-mobile
+	url = https://github.com/P-Asare/sortify-mobile.git
+[submodule "modular-sortify"]
+	path = modular-sortify
+	url = https://github.com/P-Asare/modular-sortify.git
